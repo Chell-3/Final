@@ -9,7 +9,6 @@ import finalProject.fileManagement.IOManager;
 
 public class FinalPanel extends JPanel
 {
-	private SpringLayout appLayout;
 	private JButton btnNewButton;
 	private IOManager ioManager;
 	/**
